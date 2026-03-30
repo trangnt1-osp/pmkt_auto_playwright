@@ -1,0 +1,11 @@
+{
+  "name": "pmkt_auto_playwright",
+  "version": "1.0.0",
+  "description": "pmkt_auto_test_e2e_playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "undefined",
+  "license": "ISC"
+}
